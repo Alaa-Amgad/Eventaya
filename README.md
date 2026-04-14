@@ -17,3 +17,5 @@ Key Features
 - Personalized suggestions for decorations, music, and activities.
 
 [Click here to view FigJam Board](https://www.figma.com/board/M0LydunKoHxBJ4Mdg754UR/ux_final_project?node-id=0-1&t=fSQV5Om5gBFeh1QV-1 )
+## 🎨 Figma Design
+[View Design on Figma](https://figma.com/your-link)
