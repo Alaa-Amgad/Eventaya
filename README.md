@@ -20,4 +20,4 @@ Key Features
 ## Figma Design
 [View Design on Figma](https://figma.com/your-link)
 ## For the full Case Study and UI design process 
-[please view the project here:](https://drive.google.com/drive/folders/15Y4nkcM7Pw8EZyL50CXRBD2IJjvhW9I8?usp=sharing )
+[please view the project here](https://drive.google.com/drive/folders/15Y4nkcM7Pw8EZyL50CXRBD2IJjvhW9I8?usp=sharing )
