@@ -18,6 +18,6 @@ Key Features
 ## FigJam Board
 [Click here to view FigJam Board](https://www.figma.com/board/M0LydunKoHxBJ4Mdg754UR/ux_final_project?node-id=0-1&t=fSQV5Om5gBFeh1QV-1 )
 ## Figma Design
-[View Design on Figma](https://www.figma.com/design/GH5TPOmJdJ0KrgSDo2B6hM/Eventaya?node-id=0-1&t=7xa8q8mQC7TZJSWc-1)
+[View Design on Figma](https://www.figma.com/design/GH5TPOmJdJ0KrgSDo2B6hM/Eventaya?node-id=3019-8500&t=7xa8q8mQC7TZJSWc-1)
 ## For the full Case Study and UI design process 
 [please view the project here](https://drive.google.com/drive/folders/15Y4nkcM7Pw8EZyL50CXRBD2IJjvhW9I8?usp=sharing )
